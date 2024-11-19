@@ -1,0 +1,29 @@
+# Virtual Environment
+venv/
+bin/
+etc/
+include/
+lib/
+lib64/
+share/
+pyvenv.cfg
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files
+Data/*.zip
+Data/*.csv
+!Data/.gitkeep
+
+# VS Code (if you're using it)
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db

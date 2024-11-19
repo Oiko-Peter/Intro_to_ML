@@ -1,0 +1,30 @@
+# Core Data Science & Machine Learning
+numpy
+pandas
+scikit-learn
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Jupyter Environment
+jupyter
+jupyterlab
+
+# Data Processing
+category-encoders
+feature-engine
+
+# Model Interpretation
+shap
+lime
+
+# Utilities
+tqdm
+python-dotenv
+
+# Development Tools
+black
+flake8
